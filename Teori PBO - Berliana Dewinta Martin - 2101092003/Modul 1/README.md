@@ -48,7 +48,7 @@ Berikut ini langkah – langkah sistematis dasar dalam menyelesaikan permasalaha
 
 ####### 1. Flow Chart Memasak Roti
 
-![img 1](images/img_1)
+![img 1](images/img1)
 
 
 **Thank You !**
