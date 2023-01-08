@@ -43,6 +43,11 @@ Berikut ini langkah – langkah sistematis dasar dalam menyelesaikan permasalaha
     - Desimal ke Oktal/Heksadesimal dan Oktal/Heksadesimal ke Desimal
     - Biner ke Oktal dan Oktal ke Biner
     - Biner ke Heksadesimal dan Heksadesimal ke Biner
+    
+#### Latihan
+
+####### 1. Flow Chart Memasak Roti
+![img 1](images/img_1)
 
 
 **Thank You !**
